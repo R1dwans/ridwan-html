@@ -12,9 +12,12 @@ Pendahuluan HTML
 <!doctype html>
 <html>
 <head>
+    <meta charshet="UTF"-8>
+    <meta name="description" content="belajar dasar html">
+    <meta name="keywords" content="struktur dasar html">
+    <meta name="author" content="Ridwan Susanto">
   <title>Struktur Dasar Html</title>
 </head>
 <body>
-
 </body>
 </html>
