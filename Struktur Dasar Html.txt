@@ -9,3 +9,12 @@ Pendahuluan HTML
 6.	CSS itu untuk mempercantikan halaman agar lebih bagus dan menarik.
 7.	Java Script memiliki fungsi untuk berbagai hal, salah satunya untuk membuat website menjadi interaktif. 
 8.	Analogi dari HTML/CSS/Javascript seperti halnya Mankein yang memiliki kepala, tangan, dll itu merupakan bentuk manifestasi dari HTML, sedangkan CSS sendiri seperti halnya Manekin yang dikenakan baju/jas maupun topi yang berwarna-warni (colorfull), sedangkan Javascript sendiri merupakan otak atau ide dari Manekin itu sendiri sehingga bisa berjalan, bergaya dan lebih interaktif dll.
+<!doctype html>
+<html>
+<head>
+  <title>Struktur Dasar Html</title>
+</head>
+<body>
+
+</body>
+</html>
