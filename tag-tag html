@@ -6,3 +6,11 @@ TAG YANG ADA DALAM <body></body>
                                             [Tabel <table,thead,tbody>, Form <form,input,select,button>, Script <script>, Object <object>, Grouping <div,span>
 Struktur Tag <namatag atribut="nilai"> diawali dengan nama tag dan boleh ada atributnya dan tiap tiap aribut puya sebuah nilai atau value jadi ini yang disebut struktur tag html
 - contoh <body bgcolor="lightblue">
+- contoh lebih dari satu atribut <body bgcolor="lightblue" id="myid" class="myclass">
+- atribut global atau defaul [accesskey pungsinya untuk menentukan elemen ini bisa diakses dengan menggunakan kyboard/ sortcart,
+                             [class dan id punsinya elemen yang diberi tanda classnya apa idnya apa,dir ini untuk arah tulisan,
+                             [lang untuk language,style untuk menyisipkan inline css,tagindex untuk menentukan urutan misalya membuat form,
+                             [-form lanjutan diatas isalya ketika kita menekan tab setelah itu pokus kursrnya pindah,
+                             [title untuk memberi judul pada sebuah elemet] untuk mellihat lebih detail dan lengkap bisa dilihat di
+                             [www.w3school.com/Tags]
+Ditail Tag Paragraf
