@@ -1,1 +1,31 @@
+Resum
+1.	VCS (Version Control System)
+Sistem yang menyimpan dan mengelola rekaman perubahan dari sebuah dokumen atau source code dan Kumpulan informasi2 lain.
+2.	GIT (sebuah vcs terdistribusi untuk mengelola perubahan file didalam folder)
+Salah satu software yang bisa melakukan VCS.
+Istilah-istilah didalam git misalnya
+•	folder yang kita buat didalam git tidak disebut folder tapi disebut (repository atau repo).
+•	Git akan menyimpan histori atau Riwayat perubahannya file yang disimpan menggunakan serangkaian sesuatu dinamankan commit setelah melakukan commit gitnya akan merekam jadi git akan merekam satu komit satu snepshot .
+•	Ccommit Message (jadi setiap membuat commit kita harus memberitahu ngapain barusan jadi jangan haya save save saja)
+•	Commit Branch (cabang) digunakan pada saat kita membuat repository didalam gambar tadi atau visualnya  ada titik  yang digaris horizontal itu dinamakan commit jika ada tiga titiknya artiya  kita sudah melakukan commit tiga kali melanjutkan commit diatas ceritannya setelah saya megerjakan tiga kali commit saya terpikir owh kayanya setelah saya mengerjakan commit kedua saya akan buat fitur baru tapi saya belum yakin dengan fiturnya dikomit kedua saya bisa melakukan cabang supaya tidak menggang jalur commit utamanya nah disini saya buat commit bercabang atau kasus lain misalnya kerja tim saya mengerjakan commit ditengah atau utama yang lain mengerjakan fitur yang lain awalnya sama menggunakan project yang awal tetapi dibagi kamu mengerjakan ini yang lain mengerjakan yang di jadi dibagi-bagi dalam satu repository yang sama bisa seperti itu.  
+•	Commit Marge (gabungan) ceritanya cabang tadi atau fitur baru tadi sudah dilakukan beberapa commit teryata fiturnya mau dipakai ya sudah fitur baru tadi kita tanam di
+•	 commit utamanya atau kita mengabungkan kerjaan dua orang nant ini bisa digabungkan proses pengabungan ini mengabungkan dua buah brance disebut dengan marge inilah yang disebut istilah dalam git.
+
+3.	GitHub
+Websit atau layanan untuk mengelola project Git
+Gambaran 
+Titik yang ada dalam panah kebawah disbut yang tadi commit
+Contoh selain dokumen  dibawah ini project
+Membuat folder tentang pembuatan code login dengan nama dibawah ini contoh folder wpu-login
+1.	membuat folder atau repo kosong 
+2.	git akan menyimapan memantau dan seteleh memantau git akan menyimpan semua perubahan yang terjadi .
+misalan pertama folder masih kosong terus selanjutnya kita menambahkan code view utuk login sudah beres selesai save dan commit
+kasih tau gitnya saya sudah melakukan perubahan ini nanti disimpan sama gitnya dan seterusnya sampai project selesai 
+isi yang didalam coomit gitnya dibawah ini
+Contoh gambar iniadalah sebuah folder atau repo yang sudah melakukan commit tiga kali
+
+
+
+
+	
 
